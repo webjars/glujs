@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>glujs</artifactId>
-    <version>1.2.0-SNAPSHOT</version>
+    <version>1.2.0</version>
     <name>GluJS</name>
     <description>WebJar for GluJS</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/glujs</url>
         <connection>scm:git:https://github.com/webjars/glujs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/glujs.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>glujs-1.2.0</tag>
     </scm>
 
     <developers>
